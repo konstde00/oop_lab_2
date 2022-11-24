@@ -1,0 +1,17 @@
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\bin\Debug\net6.0-windows\Lab2_Dementiev.exe
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\bin\Debug\net6.0-windows\Lab2_Dementiev.deps.json
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\bin\Debug\net6.0-windows\Lab2_Dementiev.runtimeconfig.json
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\bin\Debug\net6.0-windows\Lab2_Dementiev.dll
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\bin\Debug\net6.0-windows\Lab2_Dementiev.pdb
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\obj\Debug\net6.0-windows\Lab2_Dementiev.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\obj\Debug\net6.0-windows\Lab2_Dementiev.Form1.resources
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\obj\Debug\net6.0-windows\Lab2_Dementiev.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\obj\Debug\net6.0-windows\Lab2_Dementiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\obj\Debug\net6.0-windows\Lab2_Dementiev.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\obj\Debug\net6.0-windows\Lab2_Dementiev.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\obj\Debug\net6.0-windows\Lab2_Dementiev.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\obj\Debug\net6.0-windows\Lab2_Dementiev.dll
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\obj\Debug\net6.0-windows\refint\Lab2_Dementiev.dll
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\obj\Debug\net6.0-windows\Lab2_Dementiev.pdb
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\obj\Debug\net6.0-windows\Lab2_Dementiev.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Lab2_Dementiev\Lab2_Dementiev\obj\Debug\net6.0-windows\ref\Lab2_Dementiev.dll

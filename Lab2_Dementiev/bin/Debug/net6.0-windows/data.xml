@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<service>
+		<title>Service1</title>
+		<description>Lorem ipsum</description>
+		<type>Server</type>
+		<version>1.0</version>
+		<author>
+			<name>Matthew</name>
+			<surname>Gambardella </surname>
+			<age>35</age>
+		</author>
+		<rules>Basic</rules>
+		<info>Default</info>
+	</service>
+	<service>
+		<title>Service2</title>
+		<description>Dolor sit amet</description>
+		<type>WEB</type>
+		<version>1.5</version>
+		<author>
+			<name>Mark</name>
+			<surname>Lebowski</surname>
+			<age>28</age>
+		</author>
+		<rules>Strict</rules>
+		<info>Default+</info>
+	</service>
+	<service>
+		<title>Service3</title>
+		<description>Useful calculation service</description>
+		<type>Local</type>
+		<version>3.14</version>
+		<author>
+			<name>Andrew</name>
+			<surname>Johnson</surname>
+			<age>35</age>
+		</author>
+		<rules>Basic</rules>
+		<info>Default</info>
+	</service>
+</list>
